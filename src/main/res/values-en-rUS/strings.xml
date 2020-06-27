@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auxilio Emergencial</string>
+    <string name="cpf">CPF</string>
+    <string name="data_de_nascimento">Date of birth</string>
+    <string name="solicitar_auxilio">Enter your information to request your assistance</string>
+    <string name="renda_mensal">Monthly income</string>
+    <string name="solicitar">Request</string>
+</resources>
